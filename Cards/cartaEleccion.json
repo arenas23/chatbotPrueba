@@ -1,0 +1,115 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.0",
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Large",
+      "weight": "Bolder",
+      "text": "calificación del servicio ",
+      "horizontalAlignment": "Center"
+    },
+    {
+      "type": "TextBlock",
+      "wrap": true,
+      "text": "¡Genial! Por favor, califica tu experiencia",
+      "horizontalAlignment": "Center"
+    },
+    {
+      "type": "ColumnSet",
+      "columns": [
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "ActionSet",
+              "actions": [
+                {
+                  "type": "Action.Execute",
+                  "iconUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fphotos%2Flarge-gold-star-against-white-background-picture-id177012223%3Fk%3D20%26m%3D177012223%26s%3D170667a%26w%3D0%26h%3D4ZKJHEzOJOHFUu0cMfs8ZJeIwafRpUUgoSSRYcSEYMM%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fes%2Ffoto%2Foro-star-gm177012223-19962553&tbnid=7cs36tPGsA-46M&vet=12ahUKEwjJ2P_p3_f1AhVicTABHZ3vDS0QMygyegQIARA9..i&docid=Eg2jfKLO4NPybM&w=416&h=416&q=star&ved=2ahUKEwjJ2P_p3_f1AhVicTABHZ3vDS0QMygyegQIARA9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "ActionSet",
+              "actions": [
+                {
+                  "type": "Action.Execute",
+                  "iconUrl": "https://w7.pngwing.com/pngs/624/18/png-transparent-cute-little-star-little-stars-star-lovely-star.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "ActionSet",
+              "actions": [
+                {
+                  "type": "Action.Execute",
+                  "iconUrl": "https://w7.pngwing.com/pngs/624/18/png-transparent-cute-little-star-little-stars-star-lovely-star.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "ActionSet",
+              "actions": [
+                {
+                  "type": "Action.Execute",
+                  "iconUrl": "https://w7.pngwing.com/pngs/624/18/png-transparent-cute-little-star-little-stars-star-lovely-star.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "ActionSet",
+              "actions": [
+                {
+                  "type": "Action.Execute",
+                  "iconUrl": "https://w7.pngwing.com/pngs/624/18/png-transparent-cute-little-star-little-stars-star-lovely-star.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "width": "stretch",
+          "items": [
+            {
+              "type": "ActionSet",
+              "actions": [
+                {
+                  "type": "Action.Execute",
+                  "iconUrl": "https://w7.pngwing.com/pngs/624/18/png-transparent-cute-little-star-little-stars-star-lovely-star.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
